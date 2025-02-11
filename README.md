@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushdama07" target="blank"><img src="https://img.shields.io/twitter/follow/ayushdama07?logo=twitter&style=for-the-badge" alt="ayushdama07" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **AI-ML and MERN projects**
 
 - 🌱 I’m currently learning **MERN, Data Structures and Algorithms**
 
