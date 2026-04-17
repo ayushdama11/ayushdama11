@@ -5,14 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdama11&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdama11" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ayushdama07" target="blank"><img src="https://img.shields.io/twitter/follow/ayushdama07?logo=twitter&style=for-the-badge" alt="ayushdama07" /></a> </p>
-
-- 🔭 I’m currently working on **AI-ML and MERN projects**
-
-- 🌱 I’m currently learning **MERN, Data Structures and Algorithms**
-
 - 👯 I’m looking to collaborate on **End to End projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushdama11](https://github.com/ayushdama11)
