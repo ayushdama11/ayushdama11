@@ -13,9 +13,4 @@
 
 - 📫 How to reach me **ayushdama07@gmail.com**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushdama11&show_icons=true&locale=en&layout=compact" alt="ayushdama11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushdama11&show_icons=true&locale=en" alt="ayushdama11" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdama11&" alt="ayushdama11" /></p>
