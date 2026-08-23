@@ -68,101 +68,6 @@ I work across the stack — from building **React interfaces and Node/Spring bac
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ✈️ YatraZen
-
-**AI Trip Planner**
-
-A full-stack travel planning platform that combines personalized AI recommendations with real-time user data.
-
-**Tech Stack**
-
-`Spring Boot` `Java 21` `React` `Firebase` `Gemini API` `Docker`
-
-- ⚡ Optimized backend and API performance
-- 🔐 Firebase Authentication & Firestore
-- 🤖 AI-powered travel recommendations
-- 🗺️ Personalized routes, activities & accommodations
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Repo-Pilot
-
-**AI Developer Collaboration Tool**
-
-An AI-powered platform designed to make working with GitHub repositories easier through automated documentation and semantic code understanding.
-
-**Tech Stack**
-
-`Node.js` `Express` `React` `Gemini API` `LangChain`
-
-- 📚 Automatic repository documentation
-- 🔎 Semantic code search
-- 📝 Commit message summaries
-- ⚡ Real-time collaboration & notifications
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏠 Homiq
-
-**Real Estate Platform**
-
-A production-oriented real estate marketplace with search, authentication, maps and real-time messaging.
-
-**Tech Stack**
-
-`Node.js` `Express` `React` `MongoDB` `Prisma` `Socket.io`
-
-- 🔍 Advanced search & filters
-- 🗺️ Interactive map integration
-- 🔐 JWT Authentication
-- 💬 Real-time chat using Socket.io
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💡 More Projects
-
-I regularly experiment with:
-
-- 🌐 Full-Stack Applications
-- 🤖 AI Integrations
-- ⚙️ Backend Systems
-- 🧠 Developer Tools
-- ☁️ Cloud & Deployment
-
-<a href="https://github.com/ayushdama11?tab=repositories">
-
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
 ## 🏆 Highlights
 
 | 🚀 Achievement | 📌 Details |
@@ -172,37 +77,6 @@ I regularly experiment with:
 | ⭐ Competitive Programming | Average rating of **1550** |
 | 🎓 Education | B.Tech CSE — **Lovely Professional University** |
 | 📚 Core CS | DBMS · OS · CN · OOP · System Design |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img 
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ayushdama11&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-/>
-
-<img 
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdama11&layout=compact&hide_border=true&langs_count=8"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img 
-  src="https://streak-stats.demolab.com?user=ayushdama11&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
