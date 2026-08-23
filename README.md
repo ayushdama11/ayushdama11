@@ -209,8 +209,9 @@ I regularly experiment with:
 <div align="center">
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdama11&hide_border=true&area=true"
-  alt="Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdama11&theme=github-compact&hide_border=true"
+  width="100%"
+  alt="Ayush's GitHub Activity Graph"
 />
 
 </div>
